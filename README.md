@@ -1,0 +1,1 @@
+# Crowdfunding platform for creating smart contracts using solidity, sending ethereum to blockchain using metamask.
