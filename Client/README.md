@@ -1,4 +1,4 @@
-Create the project using this example:
+## Create the project using this example:
 
 ```bash
 npx thirdweb create --template
